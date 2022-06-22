@@ -4,7 +4,7 @@ flask-restplus==0.13.0
 Flask-SQLAlchemy==2.4.1
 mysql-connector
 nltk==3.4.1
-numpy==1.18.1
+numpy==1.22.0
 pandas==1.0.1
 pymysql
 scikit-learn
